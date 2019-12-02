@@ -1,4 +1,4 @@
-# SAP ARM Installation for Meteo Protect (http://www.meteoprotect.com/en/)
+# SAP ARM Installation for Minafin
 
 Template to deploy the SAP HANA infra 
 

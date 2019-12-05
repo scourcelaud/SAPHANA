@@ -1,4 +1,4 @@
-# SAP ARM Installation for Minafin
+# SAP ARM Installation for Minafin QA
 
 Template to deploy the SAP HANA infra 
 

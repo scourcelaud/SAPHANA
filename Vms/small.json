@@ -177,7 +177,7 @@
     "api-version": "2017-06-01",
     "api-version-vm": "2018-06-01",
     "mode": "Push",
-    "baseUri": "https://github.com/scourcelaud/SAPHANA/blob/master/",
+    "baseUri": "https://raw.githubusercontent.com/scourcelaud/SAPHANA/master/",
     "nicName": "[if (equals(parameters('IPAllocationMethod'),'Static'), concat(parameters('vmName'),'-static'), concat(parameters('vmName'),'-dynamic'))]",
     "subnetRef": "[parameters('HANASubnetRef')]",
     "OperatingSystemSpec": {

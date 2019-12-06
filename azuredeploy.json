@@ -238,7 +238,7 @@
   },
   "variables": {
     "vmName": "[toLower(parameters('vmName'))]",
-    "baseUri": "https://github.com/scourcelaud/SAPHANA/blob/master/",
+    "baseUri": "https://raw.githubusercontent.com/scourcelaud/SAPHANA/master/",
     "smallUri": "[concat(variables('baseUri'),'Vms/small.json')]",
     "smallcertUri": "[concat(variables('baseUri'),'Vms/small-certified.json')]",
     "mediumUri": "[concat(variables('baseUri'),'Vms/medium.json')]",
